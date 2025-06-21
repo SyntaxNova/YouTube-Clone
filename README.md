@@ -11,6 +11,13 @@ A responsive and visually appealing YouTube clone built with **React**, **Tailwi
 
 ---
 
+## 📸 Screenshots
+
+https://github.com/user-attachments/assets/bea90588-5c04-4384-981d-25230e2f4971
+
+![Screenshot 2025-06-21 174924](https://github.com/user-attachments/assets/ebdf3935-d4e1-485a-8321-2d620cfde500)
+
+
 ## 🧩 Features
 
 ✅ Real-time YouTube search using RapidAPI  
@@ -70,12 +77,6 @@ YouTube-Clone/
 ```
 
 ---
-
-## 📸 Screenshots
-
-https://github.com/user-attachments/assets/bea90588-5c04-4384-981d-25230e2f4971
-
-![Screenshot 2025-06-21 174924](https://github.com/user-attachments/assets/ebdf3935-d4e1-485a-8321-2d620cfde500)
 
 ## 🙋‍♂️ Author
 
